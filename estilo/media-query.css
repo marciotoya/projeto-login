@@ -25,6 +25,7 @@ grandes telas = acima de 1200px
         float: left;
         width: 30%;
         height: 100%;
+        background-position: center center;
         
     }
 
